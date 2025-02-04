@@ -3,8 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Mathematician and data scientist with experience in collaborative and solo projects. Creative, attentive, and efficient worker. 
   Able to understand complex scientific topics and present concepts for all levels of understanding. 
-  
-  <a href="www.linkedin.com/in/kailey-r-walker">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
